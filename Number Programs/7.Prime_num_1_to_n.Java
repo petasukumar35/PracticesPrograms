@@ -1,4 +1,4 @@
-7. Write a program to print the first n prime numbers.
+`7. Write a program to print the first n prime numbers.
 import java.util.*;
 public class Main
 {
